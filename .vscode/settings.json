@@ -1,0 +1,11 @@
+{
+    "gitdoc.enabled": true,
+    "cSpell.ignoreWords": [
+        "avghumidity",
+        "avgtemp",
+        "feelslike",
+        "forecastday",
+        "openweather",
+        "weatherapi"
+    ]
+}
