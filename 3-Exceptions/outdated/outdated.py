@@ -1,3 +1,20 @@
+"""
+This program prompts the user to enter a date in various formats and converts it to a standardized 'yyyy-mm-dd' format. It supports two input date formats: 'mm/dd/yyyy' and 'Month dd, yyyy' (case-insensitive month names with or without a comma after the day). The program validates the date components and handles various error cases.
+
+Usage:
+1. Run the program.
+2. Enter a date when prompted.
+3. The program will convert the date to 'yyyy-mm-dd' format and print it.
+
+Example:
+Date: 05/25/2023
+2023-05-25
+
+Date: February 14, 2024
+2024-02-14
+"""
+
+
 def main():
     # Call the changing_format function to convert the user-entered date to a standardized format.
     date_format = changing_format()

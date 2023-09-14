@@ -1,3 +1,15 @@
+"""
+This program prompts the user to enter their answer to the Great Question of Life, the Universe, and Everything and checks if their input matches one of the expected answers.
+
+Usage:
+1. Run the program.
+2. Enter an answer when prompted.
+3. The program will check if the entered answer matches "42," "forty two," or "forty-two" (case-insensitive) and print "Yes" if there is a match, or "No" otherwise.
+
+Example:
+What is the Answer to the Great Question of Life, the Universe, and Everything? 42
+Yes
+"""
 # Prompt the user to enter their answer to the Great Question of Life, the Universe, and Everything
 user_input = input(
     "What is the Answer to the Great Question of Life, the Universe, and Everything? ")

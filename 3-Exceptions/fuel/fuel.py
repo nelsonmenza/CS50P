@@ -1,3 +1,18 @@
+"""
+This program prompts the user to enter a fuel fraction and calculates the corresponding fuel percentage. It then determines the fuel status based on the calculated percentage, which can be "E" (Empty), "F" (Full), or a specific rounded percentage.
+
+Usage:
+1. Run the program.
+2. Enter a fuel fraction when prompted.
+3. The program will calculate the fuel percentage and determine the fuel status.
+4. It will print the fuel status, which can be "E," "F," or a rounded percentage.
+
+Example:
+Fraction: 3/4
+75%
+"""
+
+
 def main():
     # Prompt the user to enter the fuel fraction and calculate the fuel percentage.
     while True:

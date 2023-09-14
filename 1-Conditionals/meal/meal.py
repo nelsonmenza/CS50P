@@ -1,3 +1,17 @@
+"""
+This program prompts the user to enter the current time and checks whether it's breakfast, lunch, or dinner time based on the time entered.
+
+Usage:
+1. Run the program.
+2. Enter the current time when prompted (e.g., "1:30 p.m").
+3. The program will convert the time to a 24-hour format and determine if it falls within the specified time ranges for breakfast, lunch, or dinner. It will then print the corresponding meal time if applicable.
+
+Example:
+What time is it? 7:45 a.m
+Breakfast time
+"""
+
+
 def main():
     # Prompt user for the current time
     time = input("What time is it? ")

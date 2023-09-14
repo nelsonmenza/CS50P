@@ -1,3 +1,30 @@
+
+"""
+This program simulates a vending machine's coin operation. It continuously prompts the user to insert coins until the amount due becomes zero or negative, and it keeps track of the change owed or additional amount due.
+
+Usage:
+1. Run the program.
+2. The initial amount due is set to $50.
+3. Insert coins (25 cents, 10 cents, or 5 cents) when prompted.
+4. The program deducts the appropriate amount for each coin inserted and checks the updated amount due.
+5. When the amount due becomes zero or negative, it prints the change owed to the user.
+
+Example:
+Amount Due: 50
+Insert coin:25
+Amount Due: 25
+Insert coin:10
+Amount Due: 15
+Insert coin:5
+Amount Due: 10
+Insert coin:25
+Amount Due: 10
+Insert coin:10
+Amount Due: 0
+Change Owed: 10
+"""
+
+
 def main():
     amount_due = 50
     print("Amount Due:", amount_due)  # Print the initial amount due.

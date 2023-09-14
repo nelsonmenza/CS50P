@@ -1,3 +1,19 @@
+"""
+This program calculates the tip amount for a meal based on user input for the meal cost and tip percentage.
+
+Usage:
+1. Run the program.
+2. Enter the cost of the meal when prompted.
+3. Enter the desired tip percentage when prompted.
+4. The program will calculate and print the tip amount with 2 decimal places.
+
+Example:
+How much was the meal? $50.00
+What percentage would you like to tip? 15%
+Leave $7.50
+"""
+
+
 def main():
     # Prompt user for the cost of the meal and convert it to a float
     dollars = dollars_to_float(input("How much was the meal? "))
@@ -29,6 +45,7 @@ def percent_to_float(p):
      # Convert the value to a float and divide by 100 to get the decimal representation of the percentage
     result = float(value) / 100
     return result
+
 
  # Call the main function to start the program
 main()

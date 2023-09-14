@@ -1,3 +1,27 @@
+"""
+This program allows the user to create a grocery list by entering items one by one. It counts the occurrences of each item and prints the sorted grocery list in ascending order by item name along with their respective counts.
+
+Usage:
+1. Run the program.
+2. Enter grocery items one by one. To finish the list, press Ctrl+D (EOF).
+3. The program will count the occurrences of each item and print the sorted grocery list.
+
+Example:
+Enter grocery items:
+Apples
+Bananas
+Oranges
+Apples
+Bananas
+Ctrl+D (EOF)
+
+Output:
+2 Apples
+2 Bananas
+1 Oranges
+"""
+
+
 def main():
     # Call the grocery_list function to create the grocery dictionary.
     list_grocery = grocery_list()

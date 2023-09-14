@@ -1,3 +1,15 @@
+"""
+This program prompts the user to enter a file name, processes the input, and determines the MIME type (content type) based on the file extension. It then prints the corresponding MIME type.
+
+Usage:
+1. Run the program.
+2. Enter a file name when prompted.
+3. The program will check the file extension and print the corresponding MIME type if it recognizes the extension. If the extension is not recognized, it will print "application/octet-stream" as the default MIME type.
+
+Example:
+File name: document.pdf
+application/pdf
+"""
 # Prompt the user for the file names
 file_name = input("File name: ")
 # Remove leading and trailing whitespaces, and convert to lowercase

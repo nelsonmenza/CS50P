@@ -1,3 +1,23 @@
+"""
+This program prompts the user to enter a license plate and checks its validity based on specific rules:
+1. The license plate must have a length between 3 and 6 characters (inclusive).
+2. The first and second characters must be letters.
+3. The rest of the characters must be digits.
+4. The license plate must not contain spaces, symbols, or invalid characters.
+5. The license plate must not start with digits.
+6. The license plate must not have '0' immediately following the letter part.
+
+Usage:
+1. Run the program.
+2. Enter a license plate when prompted.
+3. The program will check if the license plate is valid and print "Valid" or "Invalid" accordingly.
+
+Example:
+Enter License Plate: AB123CD
+Valid
+"""
+
+
 def main():
     # Prompt the user to enter the license plate.
     license_plate = input("Enter License Plate: ")

@@ -1,3 +1,25 @@
+"""
+This program takes taco orders from the user, calculates the total receipt, and prints the receipt when the user is done ordering. It supports a predefined taco menu with item names and prices.
+
+Usage:
+1. Run the program.
+2. Enter taco items from the menu one by one.
+3. The program calculates the total receipt, and if the total exceeds $5, it displays the current total.
+4. To finish the order, press Ctrl+D (EOF).
+5. The program prints the final total receipt.
+
+Example:
+Item: Taco
+Item: Burrito
+Item: Quesadilla
+Total: $19.00
+Ctrl+D (EOF)
+
+Output:
+Total: $19.00
+"""
+
+
 def main():
     # Call the order_tacos function to take the taco order and calculate the total.
     general_order = order_tacos()

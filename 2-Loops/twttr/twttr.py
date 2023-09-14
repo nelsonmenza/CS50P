@@ -1,3 +1,17 @@
+"""
+This program prompts the user to input a string and then removes both lowercase and uppercase vowels (i.e., 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U') from the input string. It prints the resulting string with vowels removed.
+
+Usage:
+1. Run the program.
+2. Enter a string when prompted.
+3. The program will remove both lowercase and uppercase vowels from the input string and print the resulting string.
+
+Example:
+Input: Hello World
+Hll Wrld
+"""
+
+
 def main():
     string = input("Input:")  # Prompt the user to input a string.
     print(shorten(string))  # Print the string after removing vowels.

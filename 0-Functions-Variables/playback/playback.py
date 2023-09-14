@@ -1,3 +1,16 @@
+"""
+This program takes a user-input string, removes spaces from it, and replaces each space with "..."
+in the modified string. The modified string is then printed.
+
+Usage:
+1. Run the program.
+2. Enter a string when prompted.
+3. The program will remove spaces from the input string and print the modified string.
+
+Example:
+Enter a string: This is a test
+This...is...a...test
+"""
 # Prompt the user to enter a string and store it in the variable 'indoor'
 playback = input("Enter a string: ")
 # Initialize an empty string to store the modified string
