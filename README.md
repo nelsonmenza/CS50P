@@ -65,7 +65,38 @@ This directory contains exercises related to Unit Test statements.
 1. [test_bank](5-Unit%20Test/test_bank/test_bank.py): 
 2. [test_fuel](5-Unit%20Test/test_fuel/test_fuel.py): 
 3. [test_plates](5-Unit%20Test/test_plates/test_plates.py): 
-4. [test_twttr](5-Unit%20Test/test_twttr/test_twttr.py): 
+4. [test_twttr](5-Unit%20Test/test_twttr/test_twttr.py):
+
+### Week 6: File IO
+
+In Process
+
+1. [lines](6-File%20IO/lines/lines.py):
+2. [pizza](6-File%20IO/pizza/pizza.py): 
+3. [lines](6-File%20IO/shirt/shirt.py): 
+
+### Week 7: Regular Expressions
+
+In Process
+
+1. [numb3rs](7-Regular%20Expressions/numb3rs/numb3rs.py): 
+2. [response](7-Regular%20Expressions/response/response.py):
+3. [um](7-Regular%20Expressions/um/um.py):
+4. [watch](7-Regular%20Expressions/watch/watch.py):
+5. [working](7-Regular%20Expressions/working/working.py): 
+
+### Week 8: OOP
+
+In Process
+
+1. [jar](8-OOP/jar/jar.py): 
+2. [seasons](8-OOP/seasons/seasons.py):
+3. [shirtificate](8-OOP/shirtificate/shirtificate.py):
+ 
+  
+ 
+
+
 
 
 
