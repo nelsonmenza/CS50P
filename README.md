@@ -51,10 +51,22 @@ This directory contains exercises related to Exceptions statements.
 
 This directory contains exercises related to Exceptions statements.
 
-1. [fuel](3-Exceptions/fuel/fuel.py): 
-2. [grocery](3-Exceptions/grocery/grocery.py): 
-3. [outdated](3-Exceptions/outdated/outdated.py): 
-4. [taqueria](3-Exceptions/taqueria/taqueria.py): 
+1. [adieu](4-Libraries/adieu/adieu.py): 
+2. [bitcoin](4-Libraries/bitcoin/bitcoin.py): 
+3. [emojize](4-Libraries/emojize/emojize.py): 
+4. [figlet](4-Libraries/figlet/figlet.py):
+5. [game](4-Libraries/game/game.py):
+6. [professor](4-Libraries/professor/professor.py): 
+
+### Week 5: Unit Test
+
+This directory contains exercises related to Unit Test statements.
+
+1. [test_bank](5-Unit%Test/test_bank/test_bank.py): 
+2. [test_fuel](5-Unit%Test/test_fuel/test_fuel.py): 
+3. [test_plates](5-Unit%Test/test_plates/test_plates.py): 
+4. [test_twttr](5-Unit%test/test_twttr/test_twttr.py): 
+
 
 
 
