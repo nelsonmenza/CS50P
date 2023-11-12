@@ -62,10 +62,10 @@ This directory contains exercises related to Exceptions statements.
 
 This directory contains exercises related to Unit Test statements.
 
-1. [test_bank](5-Unit%20Test/test_bank/test_bank.py): 
-2. [test_fuel](5-Unit%20Test/test_fuel/test_fuel.py): 
-3. [test_plates](5-Unit%20Test/test_plates/test_plates.py): 
-4. [test_twttr](5-Unit%20Test/test_twttr/test_twttr.py):
+1. [test_bank](5-Unit%20Test/test_bank/test_bank.py): Test for exercise [bank](1-Conditionals/bank/bank.py).
+2. [test_fuel](5-Unit%20Test/test_fuel/test_fuel.py): Test for exercise [fuel](3-Exceptions/fuel/fuel.py).
+3. [test_plates](5-Unit%20Test/test_plates/test_plates.py): Test for exercise [plates](2-Loops/plates/plates.py).
+4. [test_twttr](5-Unit%20Test/test_twttr/test_twttr.py): Test for exercise [twttr](2-Loops/twttr/twttr.py).
 
 ### Week 6: File IO
 
