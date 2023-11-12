@@ -118,6 +118,6 @@ To get started with the WeatherAPI CLI Project, please follow the instructions i
 
 ## Final Project Directory
 
-The final project can be found in the [Final Project](Final\Project/) directory. Inside this directory, you will find the project code and a detailed README file that provides instructions on how to set up and use the CLI.
+The final project can be found in the [Final Project](Final%20Project/) directory. Inside this directory, you will find the project code and a detailed README file that provides instructions on how to set up and use the CLI.
 
 Feel free to explore the `Final Project` directory for more information on the project's requirements and usage.
